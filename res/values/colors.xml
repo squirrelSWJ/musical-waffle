@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="bluetitle">#139EFF</color>
+    <color name="text_black">#353535</color>
+    <color name="divisioncolor">#e7e3e7</color>
+    <color name="textcolor">#2751a7</color>
+    <color name="background_color">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="red">#FB0007</color>
+    <color name="a81a1e">#a81a1e</color>
+    <color name="blue">#0D62AB</color>
+    <color name="server_name">#3a3a3a</color>
+    <color name="date_color">#868686</color>
+    <color name="darkgray">#868686</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#128511</color>
+    <color name="text_title">#4A4A4A</color>
+    <color name="game_name">#535353</color>
+    <color name="subtitle_color">#DDE262</color>
+    <color name="gray_titlebg">#D0D0D0</color>
+    <color name="gray_titletext">#929292</color>
+    <color name="title_gray">#828282</color>
+    <color name="detail_cell_color">#EBEBEB</color>
+    <color name="detail_line_color">#C3C3C3</color>
+    <color name="detail_titletxt_color">#606060</color>
+    <color name="smenu_line">#222631</color>
+	<color name="bottom_bg">#333640</color>
+	<color name="nav_bg">#282f36</color> 
+	<color name="aaaaaa">#aaaaaa</color>
+	<color name="eceff3">#eceff3</color>
+	<color name="aaffffff">#ccffffff</color>
+	<color name="aa000000">#cc000000</color>
+	<color name="dark_green">#06566c</color>
+	<color name="normal_green">#3bbdbf</color>
+	<color name="gray_green">#919d9d</color>
+	
+	<color name="logo">#ff4d02</color>
+	
+	<color name="top_menu_line">#f7941d</color>
+	<color name="setting_menu_line">#dadada</color>
+	<color name="setting_bg">#f7f7f7</color>
+	
+	<color name="main_title">#464646</color>
+	<color name="main_subtitle">#898989</color>
+	
+	<color name="halfwhite">#99ffffff</color>
+	<color name="halfblue">#aa139EFF</color>
+	
+	<color name="tutorial_line">#43596c</color>
+	<color name="tutorial_off">#222c35</color>
+	<color name="tutorial_on">#2e4355</color>
+	
+</resources>

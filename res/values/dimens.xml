@@ -1,0 +1,41 @@
+<resources>
+
+    <item name="menuFromDegrees" format="float" type="dimen">180.0</item>
+    <item name="menuToDegrees" format="float" type="dimen">360.0</item>
+
+    <dimen name="menuChildSize">30dp</dimen>
+    <dimen name="slidingmenu_offset">70dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+
+    <integer name="num_cols">1</integer>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 공통 -->
+    <dimen name="txt_title">14dp</dimen>
+    <dimen name="txt_subtitle">12dp</dimen>
+    <dimen name="blank_11">11dp</dimen>
+    <dimen name="txt_regdate">8dp</dimen>
+    <dimen name="blank_5">5dp</dimen>
+    <dimen name="blank_10">10dp</dimen>
+    <dimen name="blank_2">2dp</dimen>
+    <dimen name="blank_24">24dp</dimen>
+    <dimen name="blank_16">16dp</dimen>
+    <dimen name="blank_18">18dp</dimen>
+    <dimen name="blank_20">20dp</dimen>
+    <dimen name="blank_14">14dp</dimen>
+    <dimen name="blank_30">30dp</dimen>
+    <dimen name="blank_40">40dp</dimen>
+    <dimen name="blank_50">50dp</dimen>
+    <dimen name="blank_60">60dp</dimen>
+    <dimen name="blank_70">70dp</dimen>
+    <dimen name="blank_100">100dp</dimen>
+    <dimen name="txt_6">6dp</dimen>
+
+    <!-- 회원가입 페이지 디자인 -->
+    <dimen name="blue_title">16dp</dimen>
+
+</resources>
